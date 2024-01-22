@@ -1,0 +1,1 @@
+# hackintosh-z790m-13700k-6750gre
